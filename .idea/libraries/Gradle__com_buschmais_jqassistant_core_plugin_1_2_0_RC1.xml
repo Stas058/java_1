@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.buschmais.jqassistant.core:plugin:1.2.0-RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.core/plugin/1.2.0-RC1/4d7c1bb1632b9d38b5036465e8c71c5e8dd7ced4/plugin-1.2.0-RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.core/plugin/1.2.0-RC1/67c6df503f3de18836ea260072c5781edbc7cb85/plugin-1.2.0-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

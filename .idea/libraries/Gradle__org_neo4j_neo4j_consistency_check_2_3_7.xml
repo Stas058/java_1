@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-consistency-check:2.3.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-consistency-check/2.3.7/d5b5526908b7bdca76cfe3e3235259cada5bee8e/neo4j-consistency-check-2.3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-consistency-check/2.3.7/3bc6389914903552fead8f4c0e1e9b7f4779885a/neo4j-consistency-check-2.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
